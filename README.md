@@ -14,7 +14,7 @@ SO THAT I can quickly create a professional README for a new project
 https://drive.google.com/file/d/1gs7ZGTU1QRZiweZPXSCbiEjGkr9_-C39/view?usp=sharing
 
 ## Project screenshot
-
+https://github.com/AbrarChowdhry98/Professional-Readme-Generator/blob/main/images/Screenshot.jpg
 
 ## Link to Github repository
 https://github.com/AbrarChowdhry98/Professional-Readme-Generator
